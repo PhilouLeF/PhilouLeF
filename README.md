@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoulef" alt="philoulef" /></a> </p>
 
-- 🌱 I’m currently learning **React and Tailwind**
+- 🌱 I’m currently learning **React, Tailwind and TypeScript**
 
 - 📫 How to reach me **delcroixphilippe73@gmail.com**
 
