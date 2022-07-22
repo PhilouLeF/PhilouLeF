@@ -3,10 +3,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoulef" alt="philoulef" /></a> </p>
 
+<p align="center>
 - 🌱 I’m currently learning **React, Tailwind and TypeScript**
 
 - 📫 How to reach me **delcroixphilippe73@gmail.com**
-
+</p>
+          
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/delcroix-philippe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delcroix-philippe" height="30" width="40" /></a>
