@@ -28,4 +28,4 @@ Reach me at **delcroixphilippe73@gmail.com** or <a href="https://linkedin.com/in
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philoulef&show_icons=true&locale=en&layout=compact" alt="philoulef" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philoulef&show_icons=true&locale=en&layout=compact" alt="philoulef" /></p>
