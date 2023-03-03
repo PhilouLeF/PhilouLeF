@@ -1,5 +1,5 @@
-<h1 align="center">Hi ! I'm Phil</h1>
-<h3 align="center">A junior web developer in training at BeCode</h3>
+<h1 align="center">Hello ! Philippe, Phil, ou Philou pour les plus intimes</h1>
+<h3 align="center">Développeur front-end junior avec une préférence pour React et TypeScript !</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoulef" alt="philoulef" /></a> </p>
 
