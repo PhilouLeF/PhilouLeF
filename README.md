@@ -9,10 +9,11 @@
 <p align="center">
   <img src="img\html-logo.png" alt="html5" width="40" height="40"/>
   <img src="img\css-logo.png" alt="css3" width="40" height="40"/>
+  <img src="img\sass-logo.png" alt="sass" width="40" height="40"/>
+  <br>
   <img src="img\javascript-logo.png" alt="javascript" width="40" height="40"/>
   <img src="img\typescript-logo.png" alt="typescript" width="40" height="40"/>
   <img src="img\react-logo.png" alt="react" width="40" height="40"/>
-  <img src="img\sass-logo.png" alt="sass" width="40" height="40"/>
 
 <h3 align="center">Design</h3>
 <p align="center">
