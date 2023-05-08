@@ -2,7 +2,7 @@
 <h3 align="center">Développeur front-end junior avec une préférence pour React et TypeScript !</h3>
 
 <p align="center">
-  Contactez-moi par <b>[mail](mailto:delcroixphilippe73@gmail.com)</b> ou sur <b>[LinkedIn](https://linkedin.com/in/delcroix-philippe)</b>
+  Contactez-moi par <a href="mailto:delcroixphilippe73@gmail.com">mail<a/> ou sur <a href="[mailto:delcroixphilippe73@gmail.com](https://linkedin.com/in/delcroix-philippe)">LinkedIn<a/>
 </p>
 
 <h3 align="center">Technos web</h3>
@@ -16,8 +16,8 @@
 </p>
 
 <h3 align="center">Design</h3>
-<p align="center">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png">
+<p align="center"
+  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" alt="indesign" width="40" height="40">
+  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" alt="illustrator" width="40" height="40">
+  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" alt="photoshop" width="40" height="40">
 </p>
