@@ -17,7 +17,7 @@
 
 <h3 align="center">Design</h3>
 <p align="center"
-  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" alt="indesign" width="40" height="40">
-  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" alt="illustrator" width="40" height="40">
-  <img src="https://fr.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" alt="photoshop" width="40" height="40">
+  <img src="img\indesign-logo.png" alt="indesign" width="40" height="40">
+  <img src="img\illustrator-logo.png" alt="illustrator" width="40" height="40">
+  <img src="img\photoshop-logo.png" alt="photoshop" width="40" height="40">
 </p>
