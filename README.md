@@ -2,7 +2,8 @@
 <h3 align="center">Développeur front-end junior avec une préférence pour React et TypeScript !</h3>
 
 <p align="center">
-  Reach me at <b>delcroixphilippe73@gmail.com</b> or <a href="https://linkedin.com/in/delcroix-philippe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delcroix-philippe" height="30" width="40" /></a>
+  Contactez-moi via <b>delcroixphilippe73@gmail.com</b> ou
+  <a href="https://linkedin.com/in/delcroix-philippe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delcroix-philippe" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Techos web</h3>
