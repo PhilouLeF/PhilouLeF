@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! Moi c'est Philippe</h1>
 <h3 align="center">Développeur front-end junior naviguant dans l'écosytème React.TS !</h3>
-<p>Mon profil sert surtout, pour le moment, de suivi de mon avancée</p>
+<p align="center">Mon profil sert surtout, pour le moment, de suivi de mon avancée</p>
 
 <h3 align="center">Web</h3>
 <p align="center">
